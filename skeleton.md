@@ -1,5 +1,10 @@
-# mpi-corrbench-dashboard
-The MPI-CorrBench dashboard shows and updates the tool results
+# MPI-CorrBench Dashboard
+
+The MPI-CorrBench Dashboard lists the most up-to-date results for the [MPI-CorrBench](https://github.com/tudasc/mpi-corrbench) MPI correctness tools benchmark suite.
+The results displayed are generated automatically from the CI pipeline of the main repository.
+
+For version information for the different tools tested, please see at the bottom of this file.
+For prior results, please check out this repositories history.
 
 ## Overall Results
 ![Image Missing](images/basic_eval.svg "Overall Evaluation of the correctness Tools")
