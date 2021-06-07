@@ -17,8 +17,8 @@ The MPI-CorrBench dashboard shows and updates the tool results
 ![Image Missing](images/rma_eval.svg "Evaluation for one sided communication")
 
 ## Stats
-* Visualization generated on Sat May 22 00:07:32 UTC 2021
-* Using  [Corrbench](https://github.com/tudasc/mpi-corrbench "MPI-CorrBench") version [9f2c5e35](https://github.com/tudasc/mpi-corrbench/commit/9f2c5e3539ffc5d5147fd26b03ab3395a5e4dc0e)
+* Visualization generated on Mon Jun  7 11:27:00 UTC 2021
+* Using  [Corrbench](https://github.com/tudasc/mpi-corrbench "MPI-CorrBench") version [a7a5651f](https://github.com/tudasc/mpi-corrbench/commit/a7a5651fba5766d4cff9f3d3818b263184540d2e)
 * Must Version : 1.7.0
 * TTAC Version : (No Data for itac: No Licnse to execute it in CI container)
 * Mpi-Checker (clang-tidy) version : 10.0
