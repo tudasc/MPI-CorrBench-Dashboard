@@ -22,8 +22,8 @@ For prior results, please check out this repositories history.
 ![Image Missing](images/rma_eval.svg "Evaluation for one sided communication")
 
 ## Stats
-* Visualization generated on Thu Jun 24 00:37:21 UTC 2021
-* Using  [Corrbench](https://github.com/tudasc/mpi-corrbench "MPI-CorrBench") version [bae32b04](https://github.com/tudasc/mpi-corrbench/commit/bae32b046de801929e547800041d330567dc6e0f)
+* Visualization generated on Fri Jun 25 00:08:00 UTC 2021
+* Using  [Corrbench](https://github.com/tudasc/mpi-corrbench "MPI-CorrBench") version [e9cf0cbc](https://github.com/tudasc/mpi-corrbench/commit/e9cf0cbc1a8d19248f898a8abe716834f368067a)
 * Must Version : 1.7.0
 * ITAC Version : 2021.2.0-215
 * Mpi-Checker (clang-tidy) version : 10.0
